@@ -1,0 +1,534 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1620" viewBox="0 0 2100 1620" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxOTJmYjdmNS01N2I5LTQ2MGQtYWIyOS0wMGFjMzEyZDE1NWQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFgBhz/O5WTf0w0/51ixLkkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNWI3ZDgwYS03YTdiLTQ4YjMtODFjZi02OWExOTIwMmJiYzZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoDHJMGEj6moyAz2g0/N5ueQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggljzzogBtkANSV6DBKOt/tjq5k9S+wfTvPzuzSmLyCa2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP+fLjbeobHgNxCoQtjjgJAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBaw1HfuefMF04MIUl17Ms0cssqJyGd38wG4bXoVuOA3GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjE5MmZiN2Y1LTU3YjktNDYwZC1hYjI5LTAwYWMzMTJkMTU1ZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM4NjU2MDU4LTIxNzctNGYxYS04MjU3LWZmMzUwYjdkOWFjM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCWPPOiAG2QA1JXoMEo63+2OrmT1L7B9O8/O7NKYvIJraJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggJAqgoIF0QyinbQD9d4alxIXdpqMoXvA9gFvY2H68ISiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggv6OSAKZYd6NmmyC40pvYX7zDXdkAUrndlhCZcPVqX310Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIckxCs9BJ3HReu2fXwqm3lkexpvbIhNU1B101mVv7MB4LBsolatuHD8sjltGCPunCCi15arAAuOZ1V6JtX6IHY=</c2pa:manifest></metadata>
+<title>E-01 Control system interconnection</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111111"/></marker><marker id="arrb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b6cb0"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker></defs>
+<rect x="0" y="0" width="2100" height="1620" fill="white"/>
+<rect x="10" y="10" width="2080" height="1600" rx="0" stroke="#111111" stroke-width="2" fill="none"/>
+<text x="30" y="44" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#111111">120 POOL CONTROLLER — CONTROL SYSTEM INTERCONNECTION (BLOCK WIRING DIAGRAM)</text>
+<text x="30" y="66" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="normal" fill="#8a8a8a">Every relay, digital input and analogue channel from PLAN §6, wired to its field device. Indicative — confirm tags and coil voltage at site survey.</text>
+<text x="30" y="140" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">FIELD INPUTS &amp; NETWORK</text>
+<text x="1530" y="140" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">FIELD OUTPUTS — existing contactors &amp; field devices</text>
+<rect x="500" y="150" width="1000" height="1235" rx="0" stroke="#111111" stroke-width="2" fill="#fbfbf7" stroke-dasharray="10 5"/>
+<text x="512" y="172" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" text-anchor="start" font-weight="bold" fill="#111111">CP-1  POOL CONTROL PANEL</text>
+<text x="512" y="188" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">IP66 enclosure · ELV section, segregated from mains</text>
+<rect x="30" y="175" width="300" height="44" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="40" y="193" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">HA · Home Assistant server</text>
+<text x="40" y="210" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">ESPHome native API (MQTT optional)</text>
+<rect x="30" y="250" width="160" height="30" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="40" y="270" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">LAN switch</text>
+<line x1="110" y1="219" x2="110" y2="250" stroke="#111111" stroke-width="1.6" fill="none"/>
+<polyline points="190,265 850,265 850,349" stroke="#111111" stroke-width="1.8" fill="none"/>
+<text x="560" y="258" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Cat6 Ethernet</text>
+<circle cx="500" cy="265" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="880" y="168" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#8a8a8a">POWER</text>
+<polyline points="930,110 930,178" stroke="#c62828" stroke-width="1.8" fill="none"/>
+<text x="938" y="118" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c62828">230 VAC supply (by electrician)</text>
+<circle cx="930" cy="150" r="2.6" stroke="#c62828" stroke-width="1.0" fill="white"/>
+<rect x="875" y="178" width="110" height="40" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="885" y="195" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">Q1</text>
+<text x="885" y="210" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#111111">2-pole MCB</text>
+<polyline points="985,198 1030,198" stroke="#c62828" stroke-width="1.6" fill="none"/>
+<polyline points="1005,198 1005,258 1030,258" stroke="#c62828" stroke-width="1.6" fill="none"/>
+<rect x="1030" y="178" width="175" height="40" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1040" y="195" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">PS1  24 VDC, 60 W</text>
+<text x="1040" y="210" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Mean Well HDR-60-24</text>
+<rect x="1030" y="238" width="175" height="40" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1040" y="255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">TR1  24 VAC, ≥ 100 VA</text>
+<text x="1040" y="270" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">JVAs + top-up valves</text>
+<rect x="1240" y="172" width="245" height="128" rx="0" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1248" y="194" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">F1</text>
+<text x="1274" y="194" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#111111">24 VDC → C1, M1, M2, M3</text>
+<text x="1248" y="213" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">F2</text>
+<text x="1274" y="213" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#111111">24 VDC → 4–20 mA loops, DI wetting</text>
+<text x="1248" y="232" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">F3</text>
+<text x="1274" y="232" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#c25e00">24 VAC → relay 1-7 (JVA supply)</text>
+<text x="1248" y="251" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">F4</text>
+<text x="1274" y="251" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#c25e00">24 VAC → relays 2-4, 2-5 (SV-1/2)</text>
+<text x="1248" y="270" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">F5</text>
+<text x="1274" y="270" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#111111">Coil supply (V TBC) → relay COMs</text>
+<text x="1248" y="289" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">F6</text>
+<text x="1274" y="289" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Spare</text>
+<polyline points="1205,198 1240,198" stroke="#111111" stroke-width="1.4" fill="none"/>
+<polyline points="1205,258 1240,258" stroke="#c25e00" stroke-width="1.4" fill="none"/>
+<rect x="830" y="350" width="360" height="228" rx="0" stroke="#111111" stroke-width="1.6" fill="white"/>
+<rect x="830" y="350" width="360" height="38" rx="0" stroke="#111111" stroke-width="0" fill="#f3f4f6"/>
+<line x1="830" y1="388" x2="1190" y2="388" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="840" y="367" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">C1 · Controller</text>
+<text x="840" y="382" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Waveshare ESP32-S3-ETH-8DI-8RO · ESPHome · RTC</text>
+<circle cx="830" cy="405" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI1</text>
+<text x="874" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor filter flow</text>
+<circle cx="1190" cy="405" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R1</text>
+<text x="1146" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Outdoor heater enable</text>
+<circle cx="830" cy="427" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI2</text>
+<text x="874" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor filter flow</text>
+<circle cx="1190" cy="427" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R2</text>
+<text x="1146" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Indoor heater enable</text>
+<circle cx="830" cy="449" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI3</text>
+<text x="874" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spa filter flow</text>
+<circle cx="1190" cy="449" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R3</text>
+<text x="1146" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Booster pump</text>
+<circle cx="830" cy="471" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI4</text>
+<text x="874" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Service key switch</text>
+<circle cx="1190" cy="471" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R4</text>
+<text x="1146" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Outdoor spa jets</text>
+<circle cx="830" cy="493" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI5</text>
+<text x="874" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">JVA-1 motion</text>
+<circle cx="1190" cy="493" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R5</text>
+<text x="1146" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Outdoor spa blower</text>
+<circle cx="830" cy="515" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI6</text>
+<text x="874" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">JVA-2 motion</text>
+<circle cx="1190" cy="515" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R6</text>
+<text x="1146" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Indoor spa jets</text>
+<circle cx="830" cy="537" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI7</text>
+<text x="874" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">JVA-3 motion</text>
+<circle cx="1190" cy="537" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R7</text>
+<text x="1146" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Indoor blower</text>
+<circle cx="830" cy="559" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI8</text>
+<text x="874" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Top-up meter (opt.)</text>
+<circle cx="1190" cy="559" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">R8</text>
+<text x="1146" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Solar pump</text>
+<rect x="830" y="610" width="360" height="228" rx="0" stroke="#111111" stroke-width="1.6" fill="white"/>
+<rect x="830" y="610" width="360" height="38" rx="0" stroke="#111111" stroke-width="0" fill="#f3f4f6"/>
+<line x1="830" y1="648" x2="1190" y2="648" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="840" y="627" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">M1 · Relay (D) · Modbus addr 1 · “Circulation”</text>
+<text x="840" y="642" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Waveshare Modbus RTU Relay (D) · 8 relays + 8 DIs</text>
+<circle cx="830" cy="665" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI1</text>
+<text x="874" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spa-side button (opt.)</text>
+<circle cx="1190" cy="665" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-1</text>
+<text x="1146" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Outdoor filter pump</text>
+<circle cx="830" cy="687" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI2</text>
+<text x="874" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">K4 aux proof (opt.)</text>
+<circle cx="1190" cy="687" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-2</text>
+<text x="1146" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Indoor filter pump</text>
+<circle cx="830" cy="709" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI3</text>
+<text x="874" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">K1 aux proof (opt.)</text>
+<circle cx="1190" cy="709" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-3</text>
+<text x="1146" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Spa filter pump</text>
+<circle cx="830" cy="731" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">DI4</text>
+<text x="874" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">K10 aux proof (opt.)</text>
+<circle cx="1190" cy="731" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-4</text>
+<text x="1146" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">JVA-1 direction</text>
+<circle cx="830" cy="753" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="840" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">DI5</text>
+<text x="874" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="753" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-5</text>
+<text x="1146" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">JVA-2 direction</text>
+<circle cx="830" cy="775" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="840" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">DI6</text>
+<text x="874" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="775" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-6</text>
+<text x="1146" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">JVA-3 direction</text>
+<circle cx="830" cy="797" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="840" y="801" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">DI7</text>
+<text x="874" y="801" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="797" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="801" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">1-7</text>
+<text x="1146" y="801" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">JVA 24 VAC supply</text>
+<circle cx="830" cy="819" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="840" y="823" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">DI8</text>
+<text x="874" y="823" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="819" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="1180" y="823" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#8a8a8a">1-8</text>
+<text x="1146" y="823" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#8a8a8a">spare</text>
+<rect x="830" y="870" width="360" height="228" rx="0" stroke="#111111" stroke-width="1.6" fill="white"/>
+<rect x="830" y="870" width="360" height="38" rx="0" stroke="#111111" stroke-width="0" fill="#f3f4f6"/>
+<line x1="830" y1="908" x2="1190" y2="908" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="840" y="887" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">M2 · Relay (D) · Modbus addr 2 · “Features”</text>
+<text x="840" y="902" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Waveshare Modbus RTU Relay (D) · 8 relays + 8 DIs</text>
+<circle cx="830" cy="925" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="840" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">DI1–8</text>
+<text x="874" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="925" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">2-1</text>
+<text x="1146" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Swim jet 1</text>
+<circle cx="1190" cy="947" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="951" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">2-2</text>
+<text x="1146" y="951" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Swim jet 2</text>
+<circle cx="1190" cy="969" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="973" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">2-3</text>
+<text x="1146" y="973" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Feature pump</text>
+<circle cx="1190" cy="991" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="995" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">2-4</text>
+<text x="1146" y="995" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Top-up valve, outdoor</text>
+<circle cx="1190" cy="1013" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="1180" y="1017" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#111111">2-5</text>
+<text x="1146" y="1017" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#111111">Top-up valve, indoor</text>
+<circle cx="1190" cy="1035" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="1180" y="1039" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#8a8a8a">2-6</text>
+<text x="1146" y="1039" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="1057" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="1180" y="1061" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#8a8a8a">2-7</text>
+<text x="1146" y="1061" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#8a8a8a">spare</text>
+<circle cx="1190" cy="1079" r="3" stroke="#8a8a8a" stroke-width="1.2" fill="white"/>
+<text x="1180" y="1083" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#8a8a8a">2-8</text>
+<text x="1146" y="1083" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="normal" fill="#8a8a8a">spare</text>
+<rect x="830" y="1130" width="360" height="228" rx="0" stroke="#111111" stroke-width="1.6" fill="white"/>
+<rect x="830" y="1130" width="360" height="38" rx="0" stroke="#111111" stroke-width="0" fill="#f3f4f6"/>
+<line x1="830" y1="1168" x2="1190" y2="1168" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="840" y="1147" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">M3 · Analog Input 8CH · Modbus addr 3</text>
+<text x="840" y="1162" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">Waveshare Modbus RTU Analog Input 8CH · 4–20 mA</text>
+<circle cx="830" cy="1185" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI1</text>
+<text x="874" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor heater inlet</text>
+<circle cx="830" cy="1207" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI2</text>
+<text x="874" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor heater outlet</text>
+<circle cx="830" cy="1229" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI3</text>
+<text x="874" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor heater inlet</text>
+<circle cx="830" cy="1251" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI4</text>
+<text x="874" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor heater outlet</text>
+<circle cx="830" cy="1273" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI5</text>
+<text x="874" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Solar collector</text>
+<circle cx="830" cy="1295" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI6</text>
+<text x="874" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Air</text>
+<circle cx="830" cy="1317" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1321" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI7</text>
+<text x="874" y="1321" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor pool level</text>
+<circle cx="830" cy="1339" r="3" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="840" y="1343" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">AI8</text>
+<text x="874" y="1343" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor pool level</text>
+<text x="1204" y="368" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">Onboard relays: OFF on controller reset</text>
+<text x="1204" y="628" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">Pumps: deadman 360 s · JVAs: latched</text>
+<text x="1204" y="888" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">Loads: deadman 10 s · Valves: flash-on</text>
+<line x1="1010" y1="578" x2="1010" y2="610" stroke="#1f5fbf" stroke-width="3.2" fill="none"/>
+<line x1="1010" y1="838" x2="1010" y2="870" stroke="#1f5fbf" stroke-width="3.2" fill="none"/>
+<line x1="1010" y1="1098" x2="1010" y2="1130" stroke="#1f5fbf" stroke-width="3.2" fill="none"/>
+<text x="1020" y="599" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1f5fbf">RS485 A/B · shielded twisted pair · 38 400 8N1</text>
+<text x="1000" y="599" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#1f5fbf">120 Ω (C1 jumper)</text>
+<line x1="1010" y1="1358" x2="1010" y2="1368" stroke="#1f5fbf" stroke-width="3.2" fill="none"/>
+<rect x="996" y="1368" width="28" height="12" rx="0" stroke="#1f5fbf" stroke-width="1.4" fill="white"/>
+<text x="1032" y="1378" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1f5fbf">120 Ω end termination</text>
+<line x1="1190" y1="405" x2="1530" y2="405" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="405" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="396" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">HTR-1</text>
+<text x="1592" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor gas heater — enable loop</text>
+<text x="2064" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">series: K4-aux ∥ K10-aux</text>
+<line x1="1190" y1="427" x2="1530" y2="427" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="427" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="418" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">HTR-2</text>
+<text x="1592" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor gas heater — enable loop</text>
+<text x="2064" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">series: K1-aux</text>
+<line x1="1190" y1="449" x2="1530" y2="449" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="449" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="440" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K5</text>
+<text x="1592" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Cleaner booster pump</text>
+<line x1="1190" y1="471" x2="1530" y2="471" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="471" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="462" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K11</text>
+<text x="1592" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor spa jet pump</text>
+<line x1="1190" y1="493" x2="1530" y2="493" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="493" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="484" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K12</text>
+<text x="1592" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor spa blower</text>
+<line x1="1190" y1="515" x2="1530" y2="515" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="515" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="506" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K2</text>
+<text x="1592" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor spa jet pump</text>
+<line x1="1190" y1="537" x2="1530" y2="537" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="537" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="528" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K3</text>
+<text x="1592" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor blower</text>
+<line x1="1190" y1="559" x2="1530" y2="559" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="559" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="550" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K6</text>
+<text x="1592" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Solar pump</text>
+<line x1="1190" y1="665" x2="1530" y2="665" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="665" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="656" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K4</text>
+<text x="1592" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor filter pump</text>
+<text x="2064" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">aux → HTR-1 loop</text>
+<line x1="1190" y1="687" x2="1530" y2="687" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="687" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="678" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K1</text>
+<text x="1592" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor filter pump</text>
+<text x="2064" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">aux → HTR-2 loop</text>
+<line x1="1190" y1="709" x2="1530" y2="709" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="709" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="700" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K10</text>
+<text x="1592" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spa filter pump</text>
+<text x="2064" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">aux → HTR-1 loop</text>
+<line x1="1190" y1="731" x2="1530" y2="731" stroke="#c25e00" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="731" r="2.6" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="722" width="540" height="18" rx="0" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<text x="1536" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">JVA-1</text>
+<text x="1592" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c25e00">Valve actuator 24 VAC</text>
+<text x="2064" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">NC = pool · NO = spa</text>
+<line x1="1190" y1="753" x2="1530" y2="753" stroke="#c25e00" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="753" r="2.6" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="744" width="540" height="18" rx="0" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<text x="1536" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">JVA-2</text>
+<text x="1592" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c25e00">Valve actuator 24 VAC</text>
+<text x="2064" y="757" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">NC = pool · NO = spa</text>
+<line x1="1190" y1="775" x2="1530" y2="775" stroke="#c25e00" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="775" r="2.6" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="766" width="540" height="18" rx="0" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<text x="1536" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">JVA-3</text>
+<text x="1592" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c25e00">Valve actuator 24 VAC</text>
+<text x="2064" y="779" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">NC = pool · NO = spa</text>
+<line x1="1190" y1="819" x2="1230" y2="819" stroke="#8a8a8a" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<line x1="1190" y1="925" x2="1530" y2="925" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="925" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="916" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K7</text>
+<text x="1592" y="929" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Swim jet 1 pump</text>
+<line x1="1190" y1="947" x2="1530" y2="947" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="947" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="938" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="951" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K8</text>
+<text x="1592" y="951" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Swim jet 2 pump</text>
+<line x1="1190" y1="969" x2="1530" y2="969" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="969" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="960" width="540" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="1536" y="973" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K9</text>
+<text x="1592" y="973" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Feature pump</text>
+<line x1="1190" y1="991" x2="1530" y2="991" stroke="#c25e00" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="991" r="2.6" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="982" width="540" height="18" rx="0" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<text x="1536" y="995" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">SV-1</text>
+<text x="1592" y="995" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c25e00">Top-up solenoid 24 VAC — outdoor</text>
+<text x="2064" y="995" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">≤ 15 min per pulse</text>
+<line x1="1190" y1="1013" x2="1530" y2="1013" stroke="#c25e00" stroke-width="1.3" fill="none"/>
+<circle cx="1500" cy="1013" r="2.6" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<rect x="1530" y="1004" width="540" height="18" rx="0" stroke="#c25e00" stroke-width="1.0" fill="white"/>
+<text x="1536" y="1017" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#c25e00">SV-2</text>
+<text x="1592" y="1017" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#c25e00">Top-up solenoid 24 VAC — indoor</text>
+<text x="2064" y="1017" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">≤ 15 min per pulse</text>
+<line x1="1190" y1="1035" x2="1230" y2="1035" stroke="#8a8a8a" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<line x1="1190" y1="1057" x2="1230" y2="1057" stroke="#8a8a8a" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<line x1="1190" y1="1079" x2="1230" y2="1079" stroke="#8a8a8a" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<line x1="1190" y1="797" x2="1212" y2="797" stroke="#c25e00" stroke-width="1.6" fill="none"/>
+<circle cx="1215" cy="797" r="3" stroke="#c25e00" stroke-width="1.2" fill="#c25e00"/>
+<text x="1224" y="801" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#c25e00">→ COM of 1-4, 1-5, 1-6 (flash-on ≤ 90 s per move)</text>
+<text x="1530" y="160" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">K1–K12 = existing contactors (coil voltage TBC, PLAN §5.1); motors &amp; overloads unchanged.</text>
+<text x="1530" y="173" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">Fit RC snubber (AC) or diode (DC) across each coil. Spare relays: 1-8, 2-6, 2-7, 2-8.</text>
+<rect x="30" y="396" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">FS-1</text>
+<text x="92" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Flow switch — outdoor filter</text>
+<text x="464" y="409" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">dry contact</text>
+<line x1="470" y1="405" x2="830" y2="405" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="405" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="418" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">FS-2</text>
+<text x="92" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Flow switch — indoor filter</text>
+<text x="464" y="431" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">dry contact</text>
+<line x1="470" y1="427" x2="830" y2="427" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="427" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="440" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">FS-3</text>
+<text x="92" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Flow switch — spa filter</text>
+<text x="464" y="453" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">dry contact</text>
+<line x1="470" y1="449" x2="830" y2="449" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="449" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="462" width="230" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#111111">S1</text>
+<text x="606" y="475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#111111">Service key switch (door)</text>
+<line x1="790" y1="471" x2="830" y2="471" stroke="#111111" stroke-width="1.3" fill="none"/>
+<rect x="560" y="484" width="230" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#111111">CT-1</text>
+<text x="606" y="497" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#111111">Current sw. on JVA-1 common</text>
+<line x1="790" y1="493" x2="830" y2="493" stroke="#111111" stroke-width="1.3" fill="none"/>
+<rect x="560" y="506" width="230" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#111111">CT-2</text>
+<text x="606" y="519" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#111111">Current sw. on JVA-2 common</text>
+<line x1="790" y1="515" x2="830" y2="515" stroke="#111111" stroke-width="1.3" fill="none"/>
+<rect x="560" y="528" width="230" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#111111">CT-3</text>
+<text x="606" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#111111">Current sw. on JVA-3 common</text>
+<line x1="790" y1="537" x2="830" y2="537" stroke="#111111" stroke-width="1.3" fill="none"/>
+<rect x="30" y="550" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white" stroke-dasharray="4 3"/>
+<text x="36" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">FQ-1</text>
+<text x="92" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Pulse water meter — top-up supply</text>
+<text x="464" y="563" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">optional</text>
+<line x1="470" y1="559" x2="830" y2="559" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<circle cx="500" cy="559" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="656" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white" stroke-dasharray="4 3"/>
+<text x="36" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">HS-1</text>
+<text x="92" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spa-side spa on/off button</text>
+<text x="464" y="669" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">optional</text>
+<line x1="470" y1="665" x2="830" y2="665" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<circle cx="500" cy="665" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="678" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white" stroke-dasharray="4 3"/>
+<text x="36" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K4-aux</text>
+<text x="92" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Outdoor filter contactor aux</text>
+<text x="464" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">optional proof</text>
+<line x1="470" y1="687" x2="830" y2="687" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<circle cx="500" cy="687" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="700" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white" stroke-dasharray="4 3"/>
+<text x="36" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K1-aux</text>
+<text x="92" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Indoor filter contactor aux</text>
+<text x="464" y="713" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">optional proof</text>
+<line x1="470" y1="709" x2="830" y2="709" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<circle cx="500" cy="709" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="722" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white" stroke-dasharray="4 3"/>
+<text x="36" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">K10-aux</text>
+<text x="92" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spa filter contactor aux</text>
+<text x="464" y="735" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">optional proof</text>
+<line x1="470" y1="731" x2="830" y2="731" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<circle cx="500" cy="731" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="30" y="1176" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-1</text>
+<text x="92" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — indoor heater inlet</text>
+<text x="464" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–50 °C</text>
+<line x1="470" y1="1185" x2="560" y2="1185" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1185" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1176" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-1</text>
+<text x="606" y="1189" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1185" x2="830" y2="1185" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<rect x="30" y="1198" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-2</text>
+<text x="92" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — indoor heater outlet</text>
+<text x="464" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–100 °C</text>
+<line x1="470" y1="1207" x2="560" y2="1207" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1207" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1198" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-2</text>
+<text x="606" y="1211" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1207" x2="830" y2="1207" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<rect x="30" y="1220" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-3</text>
+<text x="92" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — outdoor heater inlet (pool/spa common)</text>
+<text x="464" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–50 °C</text>
+<line x1="470" y1="1229" x2="560" y2="1229" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1229" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1220" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-3</text>
+<text x="606" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1229" x2="830" y2="1229" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<rect x="30" y="1242" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-4</text>
+<text x="92" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — outdoor heater outlet</text>
+<text x="464" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–100 °C</text>
+<line x1="470" y1="1251" x2="560" y2="1251" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1251" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1242" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-4</text>
+<text x="606" y="1255" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1251" x2="830" y2="1251" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<rect x="30" y="1264" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-5</text>
+<text x="92" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — solar collector (roof, ≈ 25 m)</text>
+<text x="464" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">−20…120 °C</text>
+<line x1="470" y1="1273" x2="560" y2="1273" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1273" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1264" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-5</text>
+<text x="606" y="1277" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1273" x2="830" y2="1273" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<rect x="30" y="1286" width="440" height="18" rx="0" stroke="#111111" stroke-width="1.0" fill="white"/>
+<text x="36" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">TE-6</text>
+<text x="92" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">PT1000 — air (shaded)</text>
+<text x="464" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">−20…60 °C</text>
+<line x1="470" y1="1295" x2="560" y2="1295" stroke="#111111" stroke-width="1.3" fill="none"/>
+<circle cx="500" cy="1295" r="2.6" stroke="#111111" stroke-width="1.0" fill="white"/>
+<rect x="560" y="1286" width="230" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="#f3f4f6"/>
+<text x="565" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="bold" fill="#1a7f37">TT-6</text>
+<text x="606" y="1299" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">PT1000 → 4–20 mA (DIN)</text>
+<line x1="790" y1="1295" x2="830" y2="1295" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<text x="508" y="1171" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">3-wire RTD</text>
+<rect x="30" y="1308" width="440" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="white"/>
+<text x="36" y="1321" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#1a7f37">LT-1</text>
+<text x="92" y="1321" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#1a7f37">Level — outdoor pool suction, before JVAs</text>
+<text x="464" y="1321" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–40 kPa gauge</text>
+<line x1="470" y1="1317" x2="830" y2="1317" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<circle cx="500" cy="1317" r="2.6" stroke="#1a7f37" stroke-width="1.0" fill="white"/>
+<rect x="30" y="1330" width="440" height="18" rx="0" stroke="#1a7f37" stroke-width="1.0" fill="white"/>
+<text x="36" y="1343" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#1a7f37">LT-2</text>
+<text x="92" y="1343" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#1a7f37">Level — indoor pool suction</text>
+<text x="464" y="1343" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">0–40 kPa gauge</text>
+<line x1="470" y1="1339" x2="830" y2="1339" stroke="#1a7f37" stroke-width="1.5" fill="none"/>
+<circle cx="500" cy="1339" r="2.6" stroke="#1a7f37" stroke-width="1.0" fill="white"/>
+<text x="560" y="1365" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#1a7f37">4–20 mA loops powered from F2 (24 VDC)</text>
+<text x="30" y="383" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">Digital inputs → C1</text>
+<text x="30" y="643" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">Digital inputs → M1 (optional)</text>
+<text x="30" y="1163" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#8a8a8a">Temperature &amp; level → M3</text>
+<rect x="30" y="1410" width="470" height="175" rx="0" stroke="#111111" stroke-width="1.2" fill="none"/>
+<text x="42" y="1432" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">LEGEND</text>
+<line x1="44" y1="1454" x2="104" y2="1454" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="116" y="1458" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">ELV control / signal wiring</text>
+<line x1="44" y1="1472" x2="104" y2="1472" stroke="#1f5fbf" stroke-width="3.2" fill="none"/>
+<text x="116" y="1476" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">RS485 bus (Modbus RTU)</text>
+<line x1="44" y1="1490" x2="104" y2="1490" stroke="#1a7f37" stroke-width="1.6" fill="none"/>
+<text x="116" y="1494" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">4–20 mA analogue loop</text>
+<line x1="44" y1="1508" x2="104" y2="1508" stroke="#c25e00" stroke-width="1.6" fill="none"/>
+<text x="116" y="1512" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">24 VAC (JVAs, top-up solenoids)</text>
+<line x1="44" y1="1526" x2="104" y2="1526" stroke="#c62828" stroke-width="1.8" fill="none"/>
+<text x="116" y="1530" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">230 VAC</text>
+<line x1="44" y1="1544" x2="104" y2="1544" stroke="#111111" stroke-width="1.3" fill="none" stroke-dasharray="4 3"/>
+<text x="116" y="1548" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Optional / to be confirmed</text>
+<line x1="44" y1="1562" x2="104" y2="1562" stroke="#8a8a8a" stroke-width="1.0" fill="none" stroke-dasharray="4 3"/>
+<text x="116" y="1566" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Spare channel</text>
+<circle cx="330" cy="1454" r="2.6" stroke="#111111" stroke-width="1" fill="white"/>
+<text x="340" y="1458" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Panel terminal</text>
+<rect x="322" y="1466" width="40" height="14" rx="0" stroke="#111111" stroke-width="1" fill="white"/>
+<text x="370" y="1477" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Field device</text>
+<rect x="322" y="1488" width="40" height="14" rx="0" stroke="#111111" stroke-width="1" fill="#f3f4f6"/>
+<text x="370" y="1499" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">In-panel device (shaded)</text>
+<rect x="520" y="1410" width="990" height="175" rx="0" stroke="#111111" stroke-width="1.2" fill="none"/>
+<text x="532" y="1432" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">NOTES</text>
+<text x="532" y="1454" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">1. Waveshare relays switch extra-low-voltage control circuits only: contactor coils, heater enable loops, 24 VAC JVAs and solenoids. No mains through the boards.</text>
+<text x="532" y="1475" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">2. Hardwired interlock: each heater enable loop passes through its filter-pump contactor aux contact(s) in series with R1 / R2, independent of software.</text>
+<text x="532" y="1496" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">3. Fail-safe: R1–R8 switch OFF when C1 resets. M1 pump outputs drop 360 s after C1 stops refreshing (heater cool-down preserved);</text>
+<text x="550" y="1517" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">M2 loads drop within 10 s. JVA supply (1-7) and top-up valves (2-4, 2-5) are timed pulses on the module itself.</text>
+<text x="532" y="1538" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">4. JVA motion is sensed by CT-1…3 on each actuator's common conductor (2–3 turns). Water readings valid only with flow; level readings only with the pump off.</text>
+<text x="532" y="1559" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">5. Device tags (K, FS, TE, LT, SV …) are indicative. Confirm at site survey (PLAN §14). Mains work by a licensed electrician (AS/NZS 3000).</text>
+<rect x="1530" y="1410" width="540" height="175" rx="0" stroke="#111111" stroke-width="1.6" fill="none"/>
+<text x="1538" y="1428.5833333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">PROJECT</text>
+<text x="1650" y="1428.5833333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">120 Pool Controller</text>
+<line x1="1530" y1="1439.1666666666667" x2="2070" y2="1439.1666666666667" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1538" y="1457.75" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DRAWING</text>
+<text x="1650" y="1457.75" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">Control system interconnection</text>
+<line x1="1530" y1="1468.3333333333333" x2="2070" y2="1468.3333333333333" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1538" y="1486.9166666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DWG NO.</text>
+<text x="1650" y="1486.9166666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">E-01   ·   Sheet 1 of 2</text>
+<line x1="1530" y1="1497.5" x2="2070" y2="1497.5" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1538" y="1516.0833333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">REVISION</text>
+<text x="1650" y="1516.0833333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">A — DRAFT, not for construction</text>
+<line x1="1530" y1="1526.6666666666667" x2="2070" y2="1526.6666666666667" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1538" y="1545.25" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DATE</text>
+<text x="1650" y="1545.25" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">4 November 2026</text>
+<line x1="1530" y1="1555.8333333333333" x2="2070" y2="1555.8333333333333" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1538" y="1574.4166666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">REFERENCE</text>
+<text x="1650" y="1574.4166666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">docs/PLAN.md §4–§6, §5.9</text>
+<line x1="1642" y1="1410" x2="1642" y2="1585" stroke="#111111" stroke-width="0.8" fill="none"/>
+</svg>

@@ -1,0 +1,392 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1540" viewBox="0 0 2100 1540" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyNjAxMWY2OC03ZWZjLTQ5YWUtYmJjYi03YzJlNTlmMzBhM2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaG1QN2suQRko1ict5bQvMV0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4ZWQzNzU3Yy0yZjg3LTQxOTItYmNhOC1kMTRlZTM1MWNkYzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoB0s5WOIBJvjvaR6X+mqwAAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggS5gWDhnNgReSi2+3YdxN2wxCmqpNZBekB7UsCjKWX8mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaETtBXyk9KlYpft81fPiCsAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDBo1S6rpYduoAPJl3U072t9Ul5XmO5F4AM6aHEpCa0ZGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI2MDExZjY4LTdlZmMtNDlhZS1iYmNiLTdjMmU1OWYzMGEzZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFiZTAxNWNhLTY0YjEtNGNkYi04MjFhLTlhMzE3ZGYzMTk1OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBLmBYOGc2BF5KLb7dh3E3bDEKaqk1kF6QHtSwKMpZfyaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggoTW49oJ3Jmr6oU8MUvyceHWu2NqKD6T7FflakoTbAAaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggu9FMt0/gux0+wxi4GUKMzZwvRhzwJMfPhxxxRYIlq590Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIG8HIRMyDLckZJ8MSFkZ3xhAJWCjO0k3lkVPwDroQbG09jWwAXLAda+YrZZ0QacPLxFuPDkSolrWO6rcN1B2XQ=</c2pa:manifest></metadata>
+<title>P-01 Piping and instrumentation (indicative)</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111111"/></marker><marker id="arrb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b6cb0"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker></defs>
+<rect x="0" y="0" width="2100" height="1540" fill="white"/>
+<rect x="10" y="10" width="2080" height="1520" rx="0" stroke="#111111" stroke-width="2" fill="none"/>
+<text x="30" y="44" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#111111">120 POOL CONTROLLER — PIPING &amp; INSTRUMENTATION DIAGRAM (INDICATIVE)</text>
+<text x="30" y="66" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="normal" fill="#8a8a8a">Where each sensor, flow switch, valve actuator and top-up valve sits. Pipe routes, check valves and exact JVA functions to be confirmed at site survey (PLAN §14).</text>
+<rect x="25" y="82" width="1275" height="540" rx="0" stroke="#111111" stroke-width="1.2" fill="none" stroke-dasharray="8 4"/>
+<text x="40" y="104" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" text-anchor="start" font-weight="bold" fill="#111111">A · INDOOR POOL CIRCUIT</text>
+<rect x="90" y="170" width="250" height="130" rx="0" stroke="#111111" stroke-width="2" fill="#dbeafe"/>
+<line x1="90" y1="188" x2="340" y2="188" stroke="#2b6cb0" stroke-width="1.4" fill="none"/>
+<text x="334" y="200" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#2b6cb0">▽ water line</text>
+<text x="175.0" y="245.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#2b6cb0">INDOOR POOL</text>
+<rect x="94.0" y="178.0" width="26" height="18" rx="0" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="107" y="191" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="middle" font-weight="bold" fill="#111111">SK</text>
+<rect x="202.0" y="285.0" width="26" height="14" rx="0" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="215" y="296" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="middle" font-weight="bold" fill="#111111">MD</text>
+<polyline points="94,187 60,187 60,470 1235,470" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polyline points="215,299 215,470" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="55,323 65,323 60,337" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="133,465 133,475 147,470" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="210,393 220,393 215,407" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polyline points="400,470 400,520" stroke="#111111" stroke-width="1.4" fill="none"/>
+<polygon points="394,496 406,496 394,514 406,514" stroke="#111111" stroke-width="1.4" fill="white"/>
+<line x1="400" y1="520" x2="400" y2="560" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="400" cy="560" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="400" y="559" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">LT</text>
+<text x="400" y="571" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">2</text>
+<text x="424" y="552" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#1a7f37">Level tap: pool-only suction, pool side of any check valve.</text>
+<text x="424" y="566" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#1a7f37">Read with P-1 off ≥ 120 s · 0–40 kPa gauge · → M3 AI8</text>
+<circle cx="560" cy="470" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="552,460 552,480 571,470" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="560" y="506" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-1</text>
+<text x="560" y="520" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K1 · indoor filter</text>
+<rect x="663" y="432" width="34" height="76" rx="8" stroke="#111111" stroke-width="1.8" fill="white"/>
+<line x1="667" y1="446" x2="693" y2="438" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="667" y1="458" x2="693" y2="450" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="667" y1="470" x2="693" y2="462" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="667" y1="482" x2="693" y2="474" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="667" y1="494" x2="693" y2="486" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<text x="680" y="526" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">F-1</text>
+<text x="680" y="540" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">filter</text>
+<polygon points="728,465 728,475 742,470" stroke="#111111" stroke-width="1" fill="#111111"/>
+<line x1="790" y1="470" x2="790" y2="418" stroke="#111111" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="790" cy="418" r="17" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="790" y="417" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">FS</text>
+<text x="790" y="429" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#111111">2</text>
+<line x1="890" y1="470" x2="890" y2="418" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="890" cy="418" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="890" y="417" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="890" y="429" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">1</text>
+<rect x="950" y="445" width="130" height="50" rx="0" stroke="#111111" stroke-width="1.8" fill="#fff7ed"/>
+<polyline points="960,470.0 973.75,457 987.5,483 1001.25,457 1015.0,483 1028.75,457 1042.5,483 1056.25,457 1070.0,483" stroke="#c62828" stroke-width="1.2" fill="none"/>
+<text x="1015.0" y="513" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">HTR-2  indoor gas heater</text>
+<text x="1015.0" y="527" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">enable ← R2</text>
+<text x="1015.0" y="541" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">via K1-aux (hardwired)</text>
+<line x1="1150" y1="470" x2="1150" y2="418" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1150" cy="418" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1150" y="417" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="1150" y="429" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">2</text>
+<polyline points="1235,470 1235,132 265,132 265,170" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="1230,307 1240,307 1235,293" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="757,127 757,137 743,132" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="260,148 270,148 265,162" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="1243" y="300" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">return</text>
+<polyline points="340,278 452,278" stroke="#111111" stroke-width="2.2" fill="none"/>
+<circle cx="472" cy="278" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="462,286 482,286 472,267" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="500" y="276" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">P-2</text>
+<text x="500" y="290" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K2 · spa jets</text>
+<polyline points="472,259 472,222 340,222" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="407,217 407,227 393,222" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="393,273 393,283 407,278" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="350" y="214" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">jets</text>
+<circle cx="640" cy="196" r="17" stroke="#111111" stroke-width="1.6" fill="white"/>
+<text x="640" y="200" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">B</text>
+<text x="666" y="194" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">B-1</text>
+<text x="666" y="208" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K3 · blower</text>
+<polyline points="623,196 340,196" stroke="#6b7280" stroke-width="1.6" fill="none" stroke-dasharray="5 3"/>
+<polygon points="567,191 567,201 553,196" stroke="#6b7280" stroke-width="1" fill="#6b7280"/>
+<text x="350" y="190" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#6b7280" font-style="italic">air</text>
+<text x="100" y="118" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#2b6cb0">Mains water via backflow device → SV-2 (relay 2-5)</text>
+<polyline points="30,156 160,156 160,170" stroke="#2b6cb0" stroke-width="1.6" fill="none"/>
+<polygon points="66,150 66,162 84,150 84,162" stroke="#111111" stroke-width="1.4" fill="white"/>
+<line x1="75" y1="156" x2="75" y2="142" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="66" y="128" width="18" height="14" rx="0" stroke="#111111" stroke-width="1.3" fill="white"/>
+<text x="75" y="139" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">S</text>
+<text x="75" y="178" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00"></text>
+<text x="75" y="191" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a"></text>
+<text x="62" y="144" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#c25e00">SV-2</text>
+<polygon points="155,158 165,158 160,172" stroke="#2b6cb0" stroke-width="1" fill="#2b6cb0"/>
+<rect x="1320" y="82" width="755" height="540" rx="0" stroke="#111111" stroke-width="1.2" fill="none"/>
+<text x="1334" y="104" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="start" font-weight="bold" fill="#111111">SYMBOLS</text>
+<circle cx="1360" cy="134" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="1352,124 1352,144 1371,134" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="1360" y="170" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111"></text>
+<text x="1360" y="184" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a"></text>
+<text x="1395" y="138" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Pump (tag P-n, driven by contactor Kn)</text>
+<rect x="1343" y="178" width="34" height="76" rx="8" stroke="#111111" stroke-width="1.8" fill="white"/>
+<line x1="1347" y1="192" x2="1373" y2="184" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1347" y1="204" x2="1373" y2="196" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1347" y1="216" x2="1373" y2="208" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1347" y1="228" x2="1373" y2="220" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1347" y1="240" x2="1373" y2="232" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<text x="1360" y="272" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111"></text>
+<text x="1360" y="286" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a"></text>
+<text x="1395" y="220" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Filter</text>
+<rect x="1338" y="274" width="46" height="26" rx="0" stroke="#111111" stroke-width="1.6" fill="#fff7ed"/>
+<text x="1395" y="291" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Gas heater (enable loop from controller)</text>
+<polygon points="1360,340 1347,332 1347,348" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="1360,340 1373,332 1373,348" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="1360,340 1352,327 1368,327" stroke="#111111" stroke-width="1.6" fill="white"/>
+<line x1="1360" y1="340" x2="1360" y2="366" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="1348" y="366" width="24" height="16" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1360" y="378" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">M</text>
+<text x="1360" y="396" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00"></text>
+<text x="1395" y="344" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">3-way valve with JVA actuator (M)</text>
+<polygon points="1351,398 1351,410 1369,398 1369,410" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1395" y="408" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Ball / isolation valve</text>
+<polygon points="1351,450 1351,462 1369,450 1369,462" stroke="#111111" stroke-width="1.4" fill="white"/>
+<line x1="1360" y1="456" x2="1360" y2="442" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="1351" y="428" width="18" height="14" rx="0" stroke="#111111" stroke-width="1.3" fill="white"/>
+<text x="1360" y="439" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">S</text>
+<text x="1360" y="478" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00"></text>
+<text x="1360" y="491" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a"></text>
+<text x="1395" y="452" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Solenoid valve (top-up, 24 VAC)</text>
+<circle cx="1360" cy="506" r="17" stroke="#111111" stroke-width="1.6" fill="white"/>
+<text x="1360" y="510" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">B</text>
+<text x="1386" y="504" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111"></text>
+<text x="1386" y="518" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a"></text>
+<text x="1395" y="510" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Air blower</text>
+<line x1="1720" y1="134" x2="1720" y2="134" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1720" cy="134" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1720" y="133" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="1720" y="145" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">n</text>
+<text x="1750" y="138" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">TE = PT1000 temperature element (in thermowell)</text>
+<line x1="1720" y1="184" x2="1720" y2="184" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1720" cy="184" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1720" y="183" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">LT</text>
+<text x="1720" y="195" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">n</text>
+<text x="1750" y="188" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">LT = level transmitter (gauge pressure)</text>
+<line x1="1720" y1="234" x2="1720" y2="234" stroke="#111111" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1720" cy="234" r="17" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1720" y="233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">FS</text>
+<text x="1720" y="245" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#111111">n</text>
+<text x="1750" y="238" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">FS = flow switch (dry contact)</text>
+<line x1="1700" y1="284" x2="1740" y2="284" stroke="#111111" stroke-width="2.2" fill="none"/>
+<text x="1750" y="288" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Process pipe</text>
+<line x1="1700" y1="314" x2="1740" y2="314" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<text x="1750" y="318" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Pipe route / function to be confirmed</text>
+<line x1="1700" y1="344" x2="1740" y2="344" stroke="#6b7280" stroke-width="1.6" fill="none" stroke-dasharray="5 3"/>
+<text x="1750" y="348" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Air line</text>
+<line x1="1700" y1="374" x2="1740" y2="374" stroke="#2b6cb0" stroke-width="1.6" fill="none"/>
+<text x="1750" y="378" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Mains water (top-up)</text>
+<line x1="1700" y1="404" x2="1740" y2="404" stroke="#111111" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<text x="1750" y="408" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Instrument connection</text>
+<polygon points="1713,429 1713,439 1727,434" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="1750" y="438" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">Flow direction</text>
+<text x="1700" y="470" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">Level measurement (elevation)</text>
+<rect x="1700" y="482" width="150" height="40" rx="0" stroke="#111111" stroke-width="1.4" fill="#dbeafe"/>
+<line x1="1700" y1="490" x2="1850" y2="490" stroke="#2b6cb0" stroke-width="1.2" fill="none"/>
+<text x="1704" y="514" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#2b6cb0">pool</text>
+<polyline points="1820,522 1820,594 1900,594" stroke="#111111" stroke-width="1.6" fill="none"/>
+<line x1="1690" y1="604" x2="1960" y2="604" stroke="#111111" stroke-width="1.2" fill="none"/>
+<text x="1905" y="616" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">basement floor</text>
+<circle cx="1850" cy="594" r="6" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1860" y="586" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="bold" fill="#1a7f37">LT</text>
+<line x1="1770" y1="490" x2="1770" y2="594" stroke="#111111" stroke-width="1" fill="none" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="1776" y="546" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="bold" fill="#111111">h ≈ 3 m</text>
+<text x="1776" y="560" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">P = ρgh</text>
+<rect x="25" y="640" width="2050" height="700" rx="0" stroke="#111111" stroke-width="1.2" fill="none" stroke-dasharray="8 4"/>
+<text x="40" y="662" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" text-anchor="start" font-weight="bold" fill="#111111">B · OUTDOOR POOL &amp; IN-POOL SPA CIRCUIT</text>
+<text x="390" y="662" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">JVA functions and the spa-filter connection are indicative — confirm at survey (PLAN §14 Q3).</text>
+<rect x="90" y="720" width="470" height="170" rx="0" stroke="#111111" stroke-width="2" fill="#dbeafe"/>
+<line x1="90" y1="738" x2="560" y2="738" stroke="#2b6cb0" stroke-width="1.4" fill="none"/>
+<text x="400" y="750" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="end" font-weight="normal" fill="#2b6cb0">▽ water line</text>
+<text x="285.0" y="815.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="bold" fill="#2b6cb0">OUTDOOR POOL</text>
+<rect x="420" y="738" width="128" height="102" rx="0" stroke="#111111" stroke-width="2.4" fill="#c7ddf7"/>
+<text x="484" y="800" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#2b6cb0">SPA</text>
+<line x1="420" y1="752" x2="392" y2="770" stroke="#2b6cb0" stroke-width="1.4" fill="none" marker-end="url(#arrb)"/>
+<text x="250" y="790" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#2b6cb0" font-style="italic">spillover (pool mode)</text>
+<rect x="94.0" y="728.0" width="26" height="18" rx="0" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="107" y="741" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="middle" font-weight="bold" fill="#111111">SK</text>
+<rect x="217.0" y="875.0" width="26" height="14" rx="0" stroke="#111111" stroke-width="1.2" fill="white"/>
+<text x="230" y="886" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="middle" font-weight="bold" fill="#111111">MD</text>
+<polyline points="94,737 60,737 60,1080 507,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polyline points="230,889 230,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="55,893 65,893 60,907" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="143,1075 143,1085 157,1080" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="225,983 235,983 230,997" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polyline points="380,1080 380,1128" stroke="#111111" stroke-width="1.4" fill="none"/>
+<polygon points="374,1103 386,1103 374,1121 386,1121" stroke="#111111" stroke-width="1.4" fill="white"/>
+<line x1="380" y1="1128" x2="380" y2="1166" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="380" cy="1166" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="380" y="1165" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">LT</text>
+<text x="380" y="1177" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">1</text>
+<text x="404" y="1160" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#1a7f37">Level tap on pool-only suction, before JVA-1, pool side of any check valve.</text>
+<text x="404" y="1174" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#1a7f37">Reads the pool even in spa mode · read with P-4 off ≥ 120 s · → M3 AI7</text>
+<polyline points="530,840 530,1067" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="525,953 535,953 530,967" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="538" y="930" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">spa suction</text>
+<polygon points="530,1080 517,1072 517,1088" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="530,1080 543,1072 543,1088" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="530,1080 522,1067 538,1067" stroke="#111111" stroke-width="1.6" fill="white"/>
+<line x1="530" y1="1080" x2="530" y2="1106" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="518" y="1106" width="24" height="16" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="530" y="1118" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">M</text>
+<text x="530" y="1136" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00">JVA-1</text>
+<text x="530" y="1150" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">suction: pool / spa</text>
+<polyline points="543,1080 621,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<circle cx="640" cy="1080" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="632,1070 632,1090 651,1080" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="640" y="1116" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-4</text>
+<text x="640" y="1130" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K4 · outdoor filter</text>
+<polyline points="659,1080 1217,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<rect x="743" y="1042" width="34" height="76" rx="8" stroke="#111111" stroke-width="1.8" fill="white"/>
+<line x1="747" y1="1056" x2="773" y2="1048" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="747" y1="1068" x2="773" y2="1060" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="747" y1="1080" x2="773" y2="1072" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="747" y1="1092" x2="773" y2="1084" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="747" y1="1104" x2="773" y2="1096" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<text x="760" y="1136" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">F-2</text>
+<text x="760" y="1150" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">filter</text>
+<line x1="850" y1="1080" x2="850" y2="1030" stroke="#111111" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="850" cy="1030" r="17" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="850" y="1029" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">FS</text>
+<text x="850" y="1041" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#111111">1</text>
+<polyline points="910,1080 910,1154" stroke="#111111" stroke-width="2.2" fill="none"/>
+<circle cx="910" cy="1173" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="902,1163 902,1183 921,1173" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="938" y="1171" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">P-5</text>
+<text x="938" y="1185" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K5 · booster</text>
+<polyline points="929,1173 1010,1173" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="996,1168 996,1178 1010,1173" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="1016" y="1177" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">to cleaner</text>
+<polyline points="980,1080 980,1019" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<circle cx="980" cy="1000" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="970,1008 990,1008 980,989" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="1008" y="998" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">P-6</text>
+<text x="1008" y="1012" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K6 · solar</text>
+<polyline points="980,981 980,940" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<rect x="970" y="880" width="180" height="60" rx="0" stroke="#111111" stroke-width="1.6" fill="#eef2ff"/>
+<line x1="1000" y1="880" x2="1000" y2="940" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1030" y1="880" x2="1030" y2="940" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1060" y1="880" x2="1060" y2="940" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1090" y1="880" x2="1090" y2="940" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<line x1="1120" y1="880" x2="1120" y2="940" stroke="#8a8a8a" stroke-width="0.8" fill="none"/>
+<text x="1060" y="872" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">SC-1  solar collectors (roof)</text>
+<polyline points="1150,910 1180,910 1180,1080" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<polygon points="1175,993 1185,993 1180,1007" stroke="#111111" stroke-width="1" fill="#111111"/>
+<line x1="1180" y1="960" x2="1218" y2="960" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1218" cy="960" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1218" y="959" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="1218" y="971" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">5</text>
+<text x="1240" y="990" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">solar circuit indicative (Q6)</text>
+<polyline points="548,800 681,800" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<circle cx="700" cy="800" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="692,790 692,810 711,800" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="700" y="836" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-10</text>
+<text x="700" y="850" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K10 · spa filter</text>
+<polyline points="719,800 1230,800 1230,1067" stroke="#111111" stroke-width="2.2" fill="none" stroke-dasharray="7 4"/>
+<polygon points="993,795 993,805 1007,800" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="1225,1013 1235,1013 1230,1027" stroke="#111111" stroke-width="1" fill="#111111"/>
+<line x1="790" y1="800" x2="790" y2="752" stroke="#111111" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="790" cy="752" r="17" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="790" y="751" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">FS</text>
+<text x="790" y="763" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#111111">3</text>
+<text x="820" y="792" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">spa filter discharge → heater (TBC Q3)</text>
+<polygon points="1230,1080 1217,1072 1217,1088" stroke="#111111" stroke-width="1.6" fill="white" stroke-dasharray="3 2"/>
+<polygon points="1230,1080 1243,1072 1243,1088" stroke="#111111" stroke-width="1.6" fill="white" stroke-dasharray="3 2"/>
+<polygon points="1230,1080 1222,1067 1238,1067" stroke="#111111" stroke-width="1.6" fill="white" stroke-dasharray="3 2"/>
+<line x1="1230" y1="1080" x2="1230" y2="1106" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="1218" y="1106" width="24" height="16" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1230" y="1118" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">M</text>
+<text x="1230" y="1136" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00">JVA-3</text>
+<text x="1230" y="1150" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">heater feed: pool / spa (TBC)</text>
+<polyline points="1243,1080 1350,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<line x1="1300" y1="1080" x2="1300" y2="1030" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1300" cy="1030" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1300" y="1029" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="1300" y="1041" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">3</text>
+<rect x="1350" y="1055" width="130" height="50" rx="0" stroke="#111111" stroke-width="1.8" fill="#fff7ed"/>
+<polyline points="1360,1080.0 1373.75,1067 1387.5,1093 1401.25,1067 1415.0,1093 1428.75,1067 1442.5,1093 1456.25,1067 1470.0,1093" stroke="#c62828" stroke-width="1.2" fill="none"/>
+<text x="1415.0" y="1123" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">HTR-1  outdoor gas heater (shared)</text>
+<text x="1415.0" y="1137" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">enable ← R1</text>
+<text x="1415.0" y="1151" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">via K4-aux ∥ K10-aux</text>
+<polyline points="1480,1080 1627,1080" stroke="#111111" stroke-width="2.2" fill="none"/>
+<line x1="1550" y1="1080" x2="1550" y2="1030" stroke="#1a7f37" stroke-width="1.0" fill="none" stroke-dasharray="3 2"/>
+<circle cx="1550" cy="1030" r="17" stroke="#1a7f37" stroke-width="1.4" fill="white"/>
+<text x="1550" y="1029" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#1a7f37">TE</text>
+<text x="1550" y="1041" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a7f37">4</text>
+<polygon points="1640,1080 1627,1072 1627,1088" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="1640,1080 1653,1072 1653,1088" stroke="#111111" stroke-width="1.6" fill="white"/>
+<polygon points="1640,1080 1632,1067 1648,1067" stroke="#111111" stroke-width="1.6" fill="white"/>
+<line x1="1640" y1="1080" x2="1640" y2="1106" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="1628" y="1106" width="24" height="16" rx="0" stroke="#111111" stroke-width="1.4" fill="white"/>
+<text x="1640" y="1118" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">M</text>
+<text x="1640" y="1136" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00">JVA-2</text>
+<text x="1640" y="1150" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">return: pool / spa</text>
+<polyline points="1653,1080 1780,1080 1780,690 150,690 150,720" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polyline points="1640,1067 1640,708 500,708 500,738" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="1775,907 1785,907 1780,893" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="1007,685 1007,695 993,690" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="145,700 155,700 150,714" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="1635,907 1645,907 1640,893" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="1007,703 1007,713 993,708" stroke="#111111" stroke-width="1" fill="#111111"/>
+<polygon points="495,718 505,718 500,732" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="1772" y="900" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="end" font-weight="normal" fill="#8a8a8a" font-style="italic">pool returns</text>
+<text x="1648" y="940" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">spa returns</text>
+<text x="100" y="682" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#2b6cb0">Mains water via backflow device → SV-1 (relay 2-4)</text>
+<polyline points="30,708 120,708 120,720" stroke="#2b6cb0" stroke-width="1.6" fill="none"/>
+<polygon points="66,702 66,714 84,702 84,714" stroke="#111111" stroke-width="1.4" fill="white"/>
+<line x1="75" y1="708" x2="75" y2="694" stroke="#111111" stroke-width="1.2" fill="none"/>
+<rect x="66" y="680" width="18" height="14" rx="0" stroke="#111111" stroke-width="1.3" fill="white"/>
+<text x="75" y="691" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="bold" fill="#111111">S</text>
+<text x="75" y="730" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#c25e00"></text>
+<text x="75" y="743" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a"></text>
+<text x="62" y="696" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="end" font-weight="bold" fill="#c25e00">SV-1</text>
+<rect x="1810" y="720" width="245" height="230" rx="0" stroke="#111111" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<text x="1822" y="738" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">Spa jets &amp; blower</text>
+<circle cx="1890" cy="790" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="1882,780 1882,800 1901,790" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="1918" y="788" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">P-11</text>
+<text x="1918" y="802" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K11 · spa jets</text>
+<polyline points="1830,790 1871,790" stroke="#111111" stroke-width="2.2" fill="none"/>
+<text x="1824" y="774" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">from spa</text>
+<polyline points="1890,771 1890,754" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="1885,765 1895,765 1890,751" stroke="#111111" stroke-width="1" fill="#111111"/>
+<circle cx="1890" cy="880" r="17" stroke="#111111" stroke-width="1.6" fill="white"/>
+<text x="1890" y="884" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">B</text>
+<text x="1916" y="878" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">B-2</text>
+<text x="1916" y="892" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="start" font-weight="normal" fill="#8a8a8a">K12 · spa blower</text>
+<polyline points="1890,897 1890,925" stroke="#6b7280" stroke-width="1.6" fill="none" stroke-dasharray="5 3"/>
+<polygon points="1885,913 1895,913 1890,927" stroke="#6b7280" stroke-width="1" fill="#6b7280"/>
+<text x="1900" y="928" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#6b7280" font-style="italic">air to spa</text>
+<text x="1900" y="754" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">to spa jets</text>
+<rect x="80" y="1215" width="790" height="110" rx="0" stroke="#111111" stroke-width="1" fill="none" stroke-dasharray="4 3"/>
+<text x="122" y="1233" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="bold" fill="#111111">Swim jets &amp; feature (own suction / return — TBC Q5)</text>
+<polyline points="100,1265 151,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<text x="100" y="1253" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">from pool</text>
+<circle cx="170" cy="1265" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="162,1255 162,1275 181,1265" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="170" y="1301" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-7</text>
+<text x="170" y="1315" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K7 · swim jet 1</text>
+<polyline points="189,1265 260,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="247,1260 247,1270 261,1265" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="266" y="1269" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">swim jet 1</text>
+<polyline points="350,1265 401,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<text x="350" y="1253" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">from pool</text>
+<circle cx="420" cy="1265" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="412,1255 412,1275 431,1265" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="420" y="1301" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-8</text>
+<text x="420" y="1315" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K8 · swim jet 2</text>
+<polyline points="439,1265 510,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="497,1260 497,1270 511,1265" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="516" y="1269" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">swim jet 2</text>
+<polyline points="600,1265 651,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<text x="600" y="1253" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">from pool</text>
+<circle cx="670" cy="1265" r="19" stroke="#111111" stroke-width="1.8" fill="white"/>
+<polygon points="662,1255 662,1275 681,1265" stroke="#111111" stroke-width="1.4" fill="none"/>
+<text x="670" y="1301" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#111111">P-9</text>
+<text x="670" y="1315" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#8a8a8a">K9 · feature</text>
+<polyline points="689,1265 760,1265" stroke="#111111" stroke-width="2.2" fill="none"/>
+<polygon points="747,1260 747,1270 761,1265" stroke="#111111" stroke-width="1" fill="#111111"/>
+<text x="766" y="1269" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a" font-style="italic">feature</text>
+<rect x="25" y="1360" width="1500" height="160" rx="0" stroke="#111111" stroke-width="1.2" fill="none"/>
+<text x="37" y="1382" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">NOTES</text>
+<text x="37" y="1406" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">1. Indicative only. Pipe sizes, check valves, isolation valves and the exact functions of JVA-1…3 are to be confirmed at survey (PLAN §14 Q3–Q6).</text>
+<text x="37" y="1428" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">2. TE-1 / TE-3 sit at the heater inlets and give true water temperature (valid after 120 s of flow). TE-2 / TE-4 at the outlets are for ΔT diagnostics only.</text>
+<text x="37" y="1450" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">3. LT-1 / LT-2 tap the pool-only suction on the pool side of any check valve, with an isolation ball valve and bleed. Readings and top-up only with that pump off ≥ 120 s.</text>
+<text x="37" y="1472" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">4. FS-1…3 downstream of each filter pump prove flow. Heater enable is hardwired through the filter-pump contactor aux contacts (see E-01).</text>
+<text x="37" y="1494" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="10.5" text-anchor="start" font-weight="normal" fill="#111111">5. Top-up valves SV-1 / SV-2 keep a compliant air gap or backflow device (AS/NZS 3500). Electrical tags and relay channels match E-01 and PLAN §6.</text>
+<rect x="1545" y="1360" width="530" height="160" rx="0" stroke="#111111" stroke-width="1.6" fill="none"/>
+<text x="1553" y="1377.3333333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">PROJECT</text>
+<text x="1665" y="1377.3333333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">120 Pool Controller</text>
+<line x1="1545" y1="1386.6666666666667" x2="2075" y2="1386.6666666666667" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1553" y="1404.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DRAWING</text>
+<text x="1665" y="1404.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111111">Piping &amp; instrumentation (indicative)</text>
+<line x1="1545" y1="1413.3333333333333" x2="2075" y2="1413.3333333333333" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1553" y="1430.6666666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DWG NO.</text>
+<text x="1665" y="1430.6666666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">P-01   ·   Sheet 2 of 2</text>
+<line x1="1545" y1="1440.0" x2="2075" y2="1440.0" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1553" y="1457.3333333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">REVISION</text>
+<text x="1665" y="1457.3333333333333" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">A — DRAFT, not for construction</text>
+<line x1="1545" y1="1466.6666666666667" x2="2075" y2="1466.6666666666667" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1553" y="1484.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">DATE</text>
+<text x="1665" y="1484.0" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">4 November 2026</text>
+<line x1="1545" y1="1493.3333333333333" x2="2075" y2="1493.3333333333333" stroke="#111111" stroke-width="0.8" fill="none"/>
+<text x="1553" y="1510.6666666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="9.5" text-anchor="start" font-weight="normal" fill="#8a8a8a">REFERENCE</text>
+<text x="1665" y="1510.6666666666665" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#111111">docs/PLAN.md §5.3–§5.5, §5.9</text>
+<line x1="1657" y1="1360" x2="1657" y2="1520" stroke="#111111" stroke-width="0.8" fill="none"/>
+</svg>
